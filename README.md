@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Zee Marquez
-- I'm a mechanical engineering student interested in finite element method, data analysis and app developement
+- I'm a mechanical engineer interested in finite element method, data analysis and app developement
 
 Check my blog: [zeemarquez.github.io](https://zeemarquez.github.io/)
 
